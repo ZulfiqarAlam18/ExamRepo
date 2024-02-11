@@ -1,5 +1,7 @@
-a=10
-b=20
+#a=10
+#b=20
+a = int(input("Enter First Number:"))
+b = int(input("Enter Second Number:"))
 
 op=input("Enter Operator :")[0]
 
